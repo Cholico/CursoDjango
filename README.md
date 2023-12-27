@@ -1,2 +1,2 @@
 # CursoDjango
-Los proyectos que hice en un bootcamp de Django de dos semanas 
+Los proyectos que hice en un bootcamp de Django de dos semanas.
